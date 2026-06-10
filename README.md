@@ -16,10 +16,7 @@ This installation includes the following packages:
 
 First, clone the repository using the following command:
 
-    git clone https://github.com/willph/evolutionApi_chatwoot_docker evolution_chatwoot
-
-After that, run the following command:
-
+    git clone https://github.com/hkphh/chatwoot-and-evolution-api.git evolution_chatwoot
     cd evolution_chatwoot
 
 To copy and paste the file .env.example as .env in these two locations, run the following commands:
